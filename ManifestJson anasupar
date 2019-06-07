@@ -1,0 +1,38 @@
+{
+  "name": "anasupar.com",
+  "short_name": "anasupar",
+  "start_url": "https://www.anasupar.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#7975ff",
+  "description": "an official website of suparyono.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-BR4q0W1sieE/XPnJRRsEiFI/AAAAAAAAIAU/q0q-ZKIOK5UHwpCIajTF9CIKQMqIvho8QCLcBGAs/s1600/48%2Bx%2B48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9Ev-U81uXG8/XPnJSao2pyI/AAAAAAAAIAc/wB1S0_6F1nArnMA-QPW0emxumZ0XUMZ8QCLcBGAs/s1600/72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-x9mbSP6zzQY/XPnJStn6d5I/AAAAAAAAIAg/Tds5PYoVZ9Q_4EvirwK7yIkJiCdZkfTHwCLcBGAs/s1600/96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vgeOLgxMfLU/XPk62-PqNDI/AAAAAAAAH-0/H5fdytN8aXYgdsaLK8oj4-eDDp5NMT_ugCLcBGAs/s1600/144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-jTSSy5zyRIY/XPnJRdLtmnI/AAAAAAAAIAQ/H0ROsBC4ZfwFXO73ZxsNcR4bAiQhXXkygCLcBGAs/s1600/168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_-V1EwmOF2o/XPk4XI2NAVI/AAAAAAAAH-o/6HbOLImrILEBtpe5rKaC4Vo3lpiX1sKxACEwYBhgL/s1600/192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-I_Hk8SY9y1M/XPnJRbHr42I/AAAAAAAAIAY/0xIvheMIfF4venov69ju07JuNwWrz6tjQCLcBGAs/s1600/512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
